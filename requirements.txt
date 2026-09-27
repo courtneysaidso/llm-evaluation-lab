@@ -1,0 +1,8 @@
+datasets
+pandas
+openai
+python-dotenv
+scikit-learn
+matplotlib
+jupyter
+ipykernel

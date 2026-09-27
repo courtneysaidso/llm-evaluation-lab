@@ -1,0 +1,7 @@
+.venv/
+.env
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+notebooks/dataset_exploration.ipynb
+explore_dataset.py
